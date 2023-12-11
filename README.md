@@ -1,5 +1,7 @@
 Basically I want to learn eleventy
 
+Requires:
+- Node 20
 
 To run:
  - npm i
