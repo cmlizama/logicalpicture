@@ -5,8 +5,17 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
+
 <div style="max-width:100%;">
-  <img src="/assets/img/forest.jpg"/>
+
+  {% set recent = collections.posts | last %}
+  Most recent: 
+  <br/>
+  <br/>
+  <h4><a href="{{ recent.url}}">{{ recent.data.title}}</a></h4>
+  <p>{{recent.content | safe }}</p>
+
+  <a href="/blog">See more posts</a>
 </div>
 
 <style>
