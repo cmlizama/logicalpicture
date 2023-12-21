@@ -9,7 +9,6 @@ eleventyNavigation:
 <div style="max-width:100%;">
 
   {% set recent = collections.posts | last %}
-  Most recent: 
   <br/>
   <br/>
   <h5>Most recent: <a href="{{ recent.url}}">{{ recent.data.title}}</a></h5>
