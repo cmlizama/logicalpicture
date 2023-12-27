@@ -17,6 +17,6 @@ Two methods have worked for me the best.
 Additionally in the school of Zen that I practice in (Soto Zen) one of the main meditation practices is called Shikantaza. This translates to "just sitting," as in you just sit in the prescribed posture and don't worry too much about your thoughts. Sitting in meditation this way, your main focus will be on your breathing and posture, not unlike how you might approach doing a proper yoga pose.
 
 <br/>
-<div style="padding-left:25%;">
-    <img src="/assets/img/bench.jpg" height="400px;" />
+<div class="center center-block">
+    <img src="/assets/img/bench.jpg" class="img-fluid mx-auto" height="400px;"  width="600px;" style="display:block;"/>
 </div>
