@@ -1,5 +1,6 @@
 ---
 title: New Year's Thoughts
+date: 2024-01-01
 ---
 
 <h3>{{title}}</h3>
