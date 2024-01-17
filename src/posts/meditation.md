@@ -1,5 +1,6 @@
 ---
 title: Meditation is Stretching
+date: 2023-12-25
 ---
 
 <h3>{{title}}</h3>
