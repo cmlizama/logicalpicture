@@ -1,5 +1,6 @@
 ---
 title: The Gate of Joy
+date: 2024-01-16
 ---
 <h3>{{title}}</h3>
 <br/>
