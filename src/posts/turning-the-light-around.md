@@ -1,7 +1,6 @@
 ---
 title: On Shining the Light Inward
 date: 2024-08-01
-eleventyExcludeFromCollections: true
 ---
 <h3>{{title}}</h3>
 <br/>
@@ -11,7 +10,7 @@ Lately I've been fascinated by the similarities between Shikantaza in Zen and Dz
 <br/><br/>
 One small difference is that Dzogchen instructions tend to emphasize trying to be aware of awareness itself. This can be done by adding an element of awareness based inquiry. You might simply ask yourself, "Is awareness here?" You then could respond to this question with, "Yes, awareness of the breath" or "Awareness of thoughts." In many ways it's not that different from meditation where you try to be aware of the breath or other bodily sensation, except this adds a slight element of self-inquiry. In my experience so far with this practice it's quite pleasant to meditate on awareness. It also produces a fairly stable concentrative state, because you aren't relying on just one meditation object. You are simply following awareness wherever awareness goes, so in a sense you never lose your focus.
 <br/><br/>
-Another cool thing is after doing this practice a little, I wondered: Isn't awareness only known through being aware of one's senses? (And remember in Buddhism, thoughts are a sense too) It turns out that meditation teachers have thought of this already of course, and indeed it's impossible to know awareness outside of experience. But that just means there's no separation between mind and objects, i.e. it's non-dual. Our everyday awareness effortlessly works non-dually with the things that we are aware of.
+Another cool thing is after doing this practice a little, I wondered: Isn't awareness only known through being aware of one's senses? (And remember in Buddhism, thoughts are a sense too.) It turns out that meditation teachers have thought of this already, of course, and indeed it's impossible to know awareness outside of experience. But that just means there's no separation between mind and objects, i.e. it's non-dual. Our everyday awareness effortlessly works non-dually with the things that we are aware of.
 <br/><br/>
 What is also interesting is how when I learned about this form of meditation, it reframed a lot of Zen writing that I've encountered previously. For example, when Dogen said in Fukanzazengi: "take the backwards step and shine the light inward." Instead of being prosaic this might also be a more literal instruction to shine the light of awareness back on itself. Whereas if you aren't familiar with this meta-awareness aspect, you might think he is describing meditation in general. Furthermore the so-called "direct pointing" instructions in Zen are often about bringing out this bare awareness. Things like offering a surprising response (or in the olden days, a slap or a shout) can shock us back into bare awareness instead of the conceptual mind.
 <br/><br/>
