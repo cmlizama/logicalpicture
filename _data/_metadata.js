@@ -1,6 +1,6 @@
 {
     "feed": {
-        "subtitle": "Thoughts on Wildlife, Meditation, and Crafting",
+        "subtitle": "Thoughts on Wildlife, Meditation",
         "filename": "feed.xml",
         "path": "/feed.xml",
         "url": "https://bogflowers.com/feed.xml",
@@ -12,5 +12,5 @@
     },
     "url": "https://bogflowers.com",
     "title": "Bog Flowers",
-    "subtitle": "Thoughts on Wildlife, Meditation, and Crafting"
+    "subtitle": "Thoughts on Wildlife, Meditation"
 }
