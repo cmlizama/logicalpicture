@@ -1,4 +1,6 @@
-Basically I want to learn eleventy
+Simple blog site made with 11ty
+
+The URL is https://bogflowers.com/
 
 Requires:
 - Node 20
